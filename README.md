@@ -39,8 +39,6 @@ For the creation of the website, we used modern web technologies, including Java
 )
 
 
-![image alt](https://github.com/Roodrrigoo/Space-Mathematics/blob/main/File/menu%20matematicas%20espaciales.png?raw=true
-)
 
 
 
